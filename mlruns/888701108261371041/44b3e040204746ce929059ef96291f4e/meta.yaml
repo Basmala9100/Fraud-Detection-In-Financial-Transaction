@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/888701108261371041/44b3e040204746ce929059ef96291f4e/artifacts
+end_time: 1728410504121
+entry_point_name: ''
+experiment_id: '888701108261371041'
+lifecycle_stage: active
+run_id: 44b3e040204746ce929059ef96291f4e
+run_name: hilarious-colt-185
+run_uuid: 44b3e040204746ce929059ef96291f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728410491437
+status: 4
+tags: []
+user_id: ME

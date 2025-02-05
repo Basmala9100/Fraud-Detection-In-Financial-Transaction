@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/888701108261371041/728f29f71ae64b38a1eb1a40d21b847d/artifacts
+end_time: 1728410588276
+entry_point_name: ''
+experiment_id: '888701108261371041'
+lifecycle_stage: active
+run_id: 728f29f71ae64b38a1eb1a40d21b847d
+run_name: agreeable-colt-897
+run_uuid: 728f29f71ae64b38a1eb1a40d21b847d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728410566555
+status: 3
+tags: []
+user_id: ME
