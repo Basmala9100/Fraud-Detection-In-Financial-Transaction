@@ -101,8 +101,10 @@ We use **MLFlow** to keep track of different model versions, logging the paramet
 ---
 
 ### 📈 Application Outputs
-![home page](https://github.com/Basmala9100/Fraud-Detection-In-Financial-Transaction/blob/main/Application/pictures/home_page_image.jpg)
-![selection page](https://github.com/Basmala9100/Fraud-Detection-In-Financial-Transaction/blob/main/Application/pictures/selection_page_image.png)
+![selection page](https://github.com/Basmala9100/Fraud-Detection-In-Financial-Transaction/blob/main/output_sample/2%20(1).png)
 ![selection page](https://github.com/Basmala9100/Fraud-Detection-In-Financial-Transaction/blob/main/output_sample/3.png)
+![selection page](https://github.com/Basmala9100/Fraud-Detection-In-Financial-Transaction/blob/main/output_sample/4.png)
+![selection page](https://github.com/Basmala9100/Fraud-Detection-In-Financial-Transaction/blob/main/output_sample/8.png)
+![selection page](https://github.com/Basmala9100/Fraud-Detection-In-Financial-Transaction/blob/main/output_sample/9.png)
 
 ---
